@@ -7,7 +7,7 @@
         <mxCell id="XELgLwoGpZAyJB-ASXNW-1" value="轩辕端" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="173" y="190" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XELgLwoGpZAyJB-ASXNW-2" value="绿色" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-2" value="绿色" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="20" y="288" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XELgLwoGpZAyJB-ASXNW-3" value="自贸" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="XELgLwoGpZAyJB-ASXNW-5" value="万象" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="389" y="288" width="62" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XELgLwoGpZAyJB-ASXNW-6" value="创世端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-6" value="创世端" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="534" y="190" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XELgLwoGpZAyJB-ASXNW-7" value="创世" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
