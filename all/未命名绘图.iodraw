@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XELgLwoGpZAyJB-ASXNW-2" value="绿色" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="20" y="288" width="62" height="48" as="geometry" />
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XELgLwoGpZAyJB-ASXNW-29" target="XELgLwoGpZAyJB-ASXNW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XELgLwoGpZAyJB-ASXNW-30" target="XELgLwoGpZAyJB-ASXNW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-30" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-32" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="241" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
