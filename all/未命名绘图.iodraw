@@ -13,13 +13,13 @@
         <mxCell id="XELgLwoGpZAyJB-ASXNW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XELgLwoGpZAyJB-ASXNW-30" target="XELgLwoGpZAyJB-ASXNW-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XELgLwoGpZAyJB-ASXNW-30" value="online" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-30" value="online" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="254" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XELgLwoGpZAyJB-ASXNW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XELgLwoGpZAyJB-ASXNW-32" target="XELgLwoGpZAyJB-ASXNW-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XELgLwoGpZAyJB-ASXNW-32" value="grayscale" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="XELgLwoGpZAyJB-ASXNW-32" value="grayscale" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="454" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XELgLwoGpZAyJB-ASXNW-34" value="fullline" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
